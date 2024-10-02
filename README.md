@@ -5,7 +5,6 @@ This is a simple *Recipe Website* built using **HTML**, **CSS**, and **JavaScrip
 ## Features:
 - *Recipe Listing:* Displays a list of recipes with images, names, and short descriptions.
 - *Search Functionality:* Allows users to search for recipes by name.
-- *Recipe Categories:* Filter recipes based on categories (e.g., Appetizers, Main Courses, Desserts, etc.).
 - *Detailed Recipe Pages:* Each recipe has a dedicated page with ingredients, preparation steps, and cooking instructions.
 - *Responsive Design:* The website is fully responsive, ensuring it works well on both desktop and mobile devices.
 
