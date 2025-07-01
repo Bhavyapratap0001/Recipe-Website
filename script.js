@@ -67,7 +67,6 @@ const openRecipePopup = (meal)=>{
     `
 
     
-
     recipeDetailsContent.parentElement.style.display = "block";
 
 
